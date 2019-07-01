@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{FBBAB32B-4049-41FA-3BCB-A88E045EBC0C}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "UE_DesignMode",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
